@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-15T09:11:16 CEST" name="Default suite" finished-at="2020-04-15T09:11:22 CEST" duration-ms="6309">
+    <groups>
+    </groups>
+    <test started-at="2020-04-15T09:11:16 CEST" name="Default test" finished-at="2020-04-15T09:11:22 CEST" duration-ms="6309">
+      <class name="Scenarios.TestScenario1">
+        <test-method is-config="true" signature="startoftest()[pri:0, instance:Scenarios.TestScenario1@309e345f]" started-at="2020-04-15T09:11:10 CEST" name="startoftest" finished-at="2020-04-15T09:11:16 CEST" duration-ms="6555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startoftest -->
+        <test-method signature="actualgoogletest()[pri:0, instance:Scenarios.TestScenario1@309e345f]" started-at="2020-04-15T09:11:16 CEST" name="actualgoogletest" finished-at="2020-04-15T09:11:22 CEST" duration-ms="6269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actualgoogletest -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:Scenarios.TestScenario1@309e345f]" started-at="2020-04-15T09:11:22 CEST" name="aftertest" finished-at="2020-04-15T09:11:27 CEST" duration-ms="4922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- Scenarios.TestScenario1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
